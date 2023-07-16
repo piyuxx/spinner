@@ -1,1 +1,1 @@
-Practice the CSS properties in this project
+Practice the CSS properties in this project                                                                                                                             
